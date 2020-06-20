@@ -1,9 +1,15 @@
 # instaclone
 
-![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-06-20 at 14 09 54](https://user-images.githubusercontent.com/30828060/85197733-96d2f100-b300-11ea-8d1a-5d1465d264a0.png)
-![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-06-20 at 14 09 51](https://user-images.githubusercontent.com/30828060/85197735-9b97a500-b300-11ea-9b99-db02811d98ad.png)
-![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-06-20 at 14 09 48](https://user-images.githubusercontent.com/30828060/85197737-9d616880-b300-11ea-8973-0c1475afe79d.png)
 ![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-06-20 at 14 05 57](https://user-images.githubusercontent.com/30828060/85197740-9f2b2c00-b300-11ea-8d20-937f5ebc1d61.png)
+
+![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-06-20 at 14 09 48](https://user-images.githubusercontent.com/30828060/85197737-9d616880-b300-11ea-8973-0c1475afe79d.png)
+
+![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-06-20 at 14 09 51](https://user-images.githubusercontent.com/30828060/85197735-9b97a500-b300-11ea-9b99-db02811d98ad.png)
+
+![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-06-20 at 14 09 54](https://user-images.githubusercontent.com/30828060/85197733-96d2f100-b300-11ea-8d1a-5d1465d264a0.png)
+
+
+
 
 
 ## © License 
